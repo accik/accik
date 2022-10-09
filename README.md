@@ -8,8 +8,6 @@
 	</a>
 </p>
 
-- I’m currently looking for **a summer job**
-
 
 
 
